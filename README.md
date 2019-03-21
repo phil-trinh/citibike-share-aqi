@@ -1,7 +1,9 @@
-# The Impact of Bike-Sharing Ridership on Air Quality: A Scalable Data Science Framework
-## Impacts of CitiBike-Share on Air Quality Index (AQI) in Manhattan, NY
+The Impact of Bike-Sharing Ridership on Air Quality:  
+A Scalable Data Science Framework
+---
 
-Repository of code for research paper for The 3rd IEEE International Conference on Smart City Innovations 2019 (TBA)
+Research of impacts of CitiBike-Share on Air Quality Index (AQI) in Manhattan, NY.  
+Repository of code for research paper for The 3rd IEEE International Conference on Smart City Innovations 2019 (TBA).
 
 ## Authors
 Paul Intrevado  
