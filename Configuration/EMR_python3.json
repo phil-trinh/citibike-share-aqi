@@ -1,0 +1,22 @@
+[
+    {
+        "Classification": "spark-env",
+        "Properties": {},
+        "Configurations": [
+            {
+                "Classification": "export",
+                "Properties": {
+                    "PYSPARK_PYTHON": "python36",
+                    "PYSPARK_SUBMIT_ARGS": "--packages org.mongodb.spark:mongo-spark-connector_2.11:2.4.0 pyspark-shell"
+                },
+                "Configurations": []
+            }
+        ]
+    },
+    {
+        "Classification": "spark",
+        "Properties": {
+            "maximizeResourceAllocation": "true"
+        }
+    }
+]
